@@ -57,7 +57,7 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vijit-vishnoi&icon=0&color=3)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=vijit-vishnoi&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
