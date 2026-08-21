@@ -45,9 +45,9 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijit-vishnoi&show_icons=true&theme=radical" alt="Vijit's GitHub Stats" />
+  <img src="https://github-readme-stats-one-flax-20.vercel.app/api?username=vijit-vishnoi&show_icons=true&theme=radical" alt="Vijit's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=vijit-vishnoi&theme=radical&hide_border=false" alt="Vijit's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijit-vishnoi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-flax-20.vercel.app/api/top-langs/?username=vijit-vishnoi&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
