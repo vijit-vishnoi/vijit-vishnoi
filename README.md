@@ -7,6 +7,19 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnoivijit@gmail.com)
 
 
+
+# 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-one-flax-20.vercel.app/api?username=vijit-vishnoi&show_icons=true&theme=radical" alt="Vijit's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=vijit-vishnoi&theme=radical&hide_border=false" alt="Vijit's Streak" />
+  <img src="https://github-readme-stats-one-flax-20.vercel.app/api/top-langs/?username=vijit-vishnoi&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src=".github/assets/trophy.svg?v=3" alt="GitHub Trophies" />
+</div>
+
 # 💻 Tech Stack
 
 **Languages:**  
@@ -42,19 +55,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-one-flax-20.vercel.app/api?username=vijit-vishnoi&show_icons=true&theme=radical" alt="Vijit's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=vijit-vishnoi&theme=radical&hide_border=false" alt="Vijit's Streak" />
-  <img src="https://github-readme-stats-one-flax-20.vercel.app/api/top-langs/?username=vijit-vishnoi&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src=".github/assets/trophy.svg?v=3" alt="GitHub Trophies" />
-</div>
-
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=vijit-vishnoi&label=Profile%20Views&color=0e75b6&style=flat-square)
