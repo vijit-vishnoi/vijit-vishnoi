@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vijit Vishnoi  <br>💻 Computer Science student at IIIT Ranchi | Aspiring Software Engineer  <br>🚀 I love building **full-stack web apps** using **Node.js, Express, and MySQL**, and I enjoy solving **data structure & algorithm** challenges.  <br>🌱 Currently exploring **system design** and **scalable backend architectures**. <br> 🧠 Interests: Competitive programming, open-source, and tech entrepreneurship.  <br>📫 Reach me at: vishnoivijit@gmail.com | https://www.linkedin.com/in/vijit-vishnoi-793b86292<br>⚡ Fun fact: I believe good code is like a good story — clean, structured, and meaningful.<br>
+👋 Hi, I'm Vijit Vishnoi  <br>💻 Computer Science student at IIIT Ranchi | Aspiring Software Engineer  <br>🚀 I love building **full-stack web apps** using **Node.js, Express, and MySQL**, and I enjoy solving **data structure & algorithm** challenges.  <br>🌱 Currently exploring **system design** and **scalable backend architectures**. <br> 🧠 Interests: Competitive programming, open-source, and tech entrepreneurship.  ⚡ Fun fact: I believe good code is like a good story — clean, structured, and meaningful.<br>
 
 
 ## 🌐 Socials
